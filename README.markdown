@@ -13,10 +13,10 @@ What exactly are you printing? For us first timers, let's find a cool print onli
 
 Example places to find 3D printable models:
 
-[Thingiverse](http://www.thingiverse.com/)
-[Pinshape](https://pinshape.com/)
-[My Mini Factory](https://www.myminifactory.com)
-[Yeggi](http://www.yeggi.com/)
+  * [Thingiverse](http://www.thingiverse.com/)
+  * [Pinshape](https://pinshape.com/)
+  * [My Mini Factory](https://www.myminifactory.com)
+  * [Yeggi](http://www.yeggi.com/)
 
 For our example, we'll be printing out [Pikachu!](http://www.thingiverse.com/thing:22012)
 
